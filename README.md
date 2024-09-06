@@ -15,7 +15,6 @@ Ce dépôt contient les fichiers nécessaires pour mettre en place un serveur GT
 
 ## Prérequis
 
-- [FiveM Server](https://fivem.net/)
 - Une clé de licence FiveM.
 
 ## Installation
